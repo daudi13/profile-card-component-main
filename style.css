@@ -130,6 +130,11 @@ border-radius: 0 0 10px 10px;
     font-size: 14px;
 }
 
+.attribution {
+    position: absolute;
+    bottom: 0;
+}
+
 /* @media (min-width: 375px) {
     body {
         margin: 10px;
